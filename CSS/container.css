@@ -1,0 +1,25 @@
+* {
+  text-align: center;
+  margin: 0.5rem;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8ede3;
+}
+.container {
+  align-items: center;
+  justify-content: center;
+  background-color: #bdd2b6;
+  padding: 10rem;
+  border-radius: 5rem;
+}
+.container input {
+  border: none;
+  width: 10rem;
+  height: 2rem;
+  border-radius: 0.4rem;
+}
